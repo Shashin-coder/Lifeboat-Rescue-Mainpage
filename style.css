@@ -1,0 +1,60 @@
+
+html, body {
+    margin: 10;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    display: block;
+    border: 10px solid ;
+    margin-right:auto;
+    margin-left:auto;
+    
+  }.hello{
+    color: dodgerblue}
+    .frame {
+      margin: auto;
+    width: 83.0em;
+    height: 22.3em;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #a5f215, #f2dc15);
+    background-size: 100% 100%;
+    position: relative;
+     
+     
+  
+ 
+}
+.bg2 {
+  margin: auto;
+  width: 83.0em;
+  height: 45.2em/2;
+  overflow: hidden;
+  background-image: linear-gradient(to left, #1053e5, #15f2ea);
+  background-size: 100% 100%;
+  position: relative;
+ 
+
+
+}
+.intro{
+    color:darkolivegreen;
+    text-align:center;
+    padding: 40px;
+   font-size:200
+    
+}
+.camelchamelon{
+color:aquamarine;
+
+    display:flex;
+    background-image: linear-gradient(to left, #1053e5, #15f2ea);
+    flex-direction:row;
+    justify-content: center;
+  
+  }
+  
+  
+  
+  
+ 
